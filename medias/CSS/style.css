@@ -90,10 +90,7 @@ a:hover {
 
 
 
-.rond-help {
-    background-image: url(../images/Help\ !.jpg);
-    background-size: cover;
-    background-position: center;
+.rond{
     width: 250px;
     height: 250px;
     display: inline-block;
